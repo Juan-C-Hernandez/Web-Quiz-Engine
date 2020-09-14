@@ -1,0 +1,3 @@
+2020-09-13 22:47:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "QUIZSOLVED" not found; SQL statement:
+ SELECT count(*) FROM QuizSolved [42102-200]
